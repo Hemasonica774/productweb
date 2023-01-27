@@ -583,10 +583,10 @@ contact.html
 ```
 
 ## Output:
-![Output](./ou1.png)
-![Output](./ou2.png)
-![Output](./ou3.png)
-![Output](./ou4.png)
+![Output](./out1.png)
+![Output](./out2.png)
+![Output](./out3.png)
+![Output](./out4.png)
 
 ## HTML Validator
 
